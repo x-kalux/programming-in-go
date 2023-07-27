@@ -1,7 +1,7 @@
 package main
 
 import (
-	coursemanager "xkalux/panicexample/challenge"
+	coursemanager "github.com/x-kalux/programming-in-go/panic-example/challenge"
 )
 
 func main() {
