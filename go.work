@@ -3,4 +3,5 @@ go 1.20
 use (
 	./panic_example
 	./unittest_example
+	./package_example
 )
