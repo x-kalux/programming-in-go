@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	concurrency_example.Channel_example()
+	concurrency_example.Channel_example2()
 }
